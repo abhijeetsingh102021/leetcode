@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/abhijeetsingh102021/leetcode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/abhijeetsingh102021/leetcode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/abhijeetsingh102021/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhijeetsingh102021/leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/abhijeetsingh102021/leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/abhijeetsingh102021/leetcode/tree/master/1266-minimum-time-visiting-all-points) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhijeetsingh102021/leetcode/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/abhijeetsingh102021/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
