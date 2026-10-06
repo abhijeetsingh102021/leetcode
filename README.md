@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/abhijeetsingh102021/leetcode/tree/master/0001-two-sum) |
 | [0054-spiral-matrix](https://github.com/abhijeetsingh102021/leetcode/tree/master/0054-spiral-matrix) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeetsingh102021/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0200-number-of-islands](https://github.com/abhijeetsingh102021/leetcode/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/abhijeetsingh102021/leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/abhijeetsingh102021/leetcode/tree/master/0268-missing-number) |
@@ -68,4 +69,8 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/abhijeetsingh102021/leetcode/tree/master/0200-number-of-islands) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/abhijeetsingh102021/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
